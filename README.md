@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning (Reactjs, Django, CSS)
+- 🌱 I’m currently learning (Reactjs, Django, Tailwindcss, MongoDB and Express)
 - 👯 I’m looking to collaborate on a serious game development project 
 - 📫 How to reach me: adhamremeh@gmail.com
 
